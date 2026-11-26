@@ -1,1 +1,1 @@
-#define UTS_RELEASE "5.10.240-android12-9-00038-gd39eb19e2e28-ab15938401"
+#define UTS_RELEASE "5.10.240-Tachyon"
